@@ -29,8 +29,7 @@
 
 
 ### Краткая информация о данных
-game_v3.py 4 833 байт
-сам код программы
+game_v3.py 4 833 байт, здесь находится сам код программы
   
 :arrow_up:[к оглавлению](https://github.com/Rippoz39/HomeWork/tree/Master/HomeWork/game_v3/README.md#Оглавление)
 
